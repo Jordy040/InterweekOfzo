@@ -1,0 +1,84 @@
+
+#introHead{
+    color: rgb(73, 160, 178);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#intro{
+    color: #faf6f6;
+}
+.reset{
+    clear: both;
+}
+#introContainer{
+    padding: 30px; 
+    width: 470px;
+    border-radius: 10px;
+    background-color: rgb(43, 50, 56);
+    float:left; 
+    margin: 30px 0px 0px 30px;
+}
+#introPicture{
+    float: left;
+    margin: 0px 0px 30px 0px;
+    border-style:groove;
+    border-color: black;
+}
+#introPicture2{
+    float: left;
+    margin: 30px 0px 30px 0px;
+    border-style:groove;
+    border-color: black;
+}
+
+/*Hobby*/
+#hobbyContainer{
+    padding: 30px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: rgb(43, 50, 56);
+    float: right;
+    margin: 0px 220px 0px 0px;
+    color: azure;
+}
+
+#hobbyContainer h2{
+    margin: 0px 0px 0px 0px 
+}
+/*Pictures*/
+
+#mainContainer{
+    width: 1300px;
+    margin: 0px auto;
+}
+#navigation{
+    height: 20px;
+    margin: 70px 0px 0px 0px;
+}
+#navigation a{
+    padding: 10px;
+    background:hwb(186 38% 39%);
+    color:#ffffff;
+    border-radius: 4px;
+}
+#navigation a:hover{
+   background: #c4313b;
+}
+#navigation2{
+    height: 20px;
+    margin: 100px 0px 0px 0px;
+}
+#navigation2 a{
+    padding: 10px;
+    background:hwb(186 38% 39%);
+    color:#ffffff;
+    border-radius: 4px;
+}
+#navigation2 a:hover{
+   background: #c4313b;
+}
+body{
+    background-color: rgb(59, 114, 125);
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
